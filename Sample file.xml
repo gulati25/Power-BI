@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<PurchaseOrders>
+  <PurchaseOrder PurchaseOrderNumber="99503" OrderDate="1999-10-20">
+    <Address Type="Shipping">
+      <Name>Ellen Adams</Name>
+      <Street>123 Maple Street</Street>
+      <City>Mill Valley</City>
+      <State>CA</State>
+      <Zip>10999</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Tai Yee</Name>
+      <Street>8 Oak Avenue</Street>
+      <City>Old Town</City>
+      <State>PA</State>
+      <Zip>95819</Zip>
+      <Country>USA</Country>
+    </Address>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99505" OrderDate="1999-10-22">
+    <Address Type="Shipping">
+      <Name>Cristian Osorio</Name>
+      <Street>456 Main Street</Street>
+      <City>Buffalo</City>
+      <State>NY</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Cristian Osorio</Name>
+      <Street>456 Main Street</Street>
+      <City>Buffalo</City>
+      <State>NY</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+  </PurchaseOrder>
+  <PurchaseOrder PurchaseOrderNumber="99504" OrderDate="1999-10-22">
+    <Address Type="Shipping">
+      <Name>Jessica Arnold</Name>
+      <Street>4055 Madison Ave</Street>
+      <City>Seattle</City>
+      <State>WA</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+    <Address Type="Billing">
+      <Name>Jessica Arnold</Name>
+      <Street>4055 Madison Ave</Street>
+      <City>Buffalo</City>
+      <State>NY</State>
+      <Zip>98112</Zip>
+      <Country>USA</Country>
+    </Address>
+  </PurchaseOrder>
+</PurchaseOrders>
